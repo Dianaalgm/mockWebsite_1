@@ -1,0 +1,41 @@
+.headerContainer{
+    border: solid blue
+    padding:2%;
+    background-color:white;
+    display:flex;
+    justify-content:space-between;
+}
+.logoTitle{
+    width: 160px;
+    height: 45px;
+    display: flex;
+    justify-content: left;
+}
+.mainImage{
+    border: solid red;
+}
+.search-menu{
+    width: 140px;
+    height: 37px;
+    display: flex;
+    justify-content: space-between;
+}
+.searchEngine{
+    font-style: italic;
+    font-size: 18px;
+}
+.searchEngine:hover{
+    background-color: rgb(197, 145, 197);
+}
+.midContainer{
+    border: solid black;
+    display: flex;
+    justify-content: space-between;
+
+}
+.midTitle{
+    border: solid green;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
